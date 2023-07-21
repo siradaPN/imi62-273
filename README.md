@@ -1,3 +1,3 @@
 # imi62-273
 
-hello my name sirada
+hello my name is sirada
